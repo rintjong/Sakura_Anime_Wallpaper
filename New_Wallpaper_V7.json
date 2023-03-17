@@ -2,20 +2,20 @@
   "Ads": [
     {
       "select_main_ads": "ADMOB",
-      "select_backup_ads":"APPLOVIN-M",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
-      "main_ads_rewards":"ca-app-pub-3940256099942544/5224354917",
-      "backup_ads_natives":"c8e666ec54a0a6d8",
+      "select_backup_ads":"FACEBOOK",
+      "main_ads_banner": "null",
+      "main_ads_intertitial":"null",
+      "main_ads_natives":"null",
+      "main_ads_rewards":"null",
+      "backup_ads_natives":"538079564880777_538080198214047",
       "backup_ads_banner":"null",
-      "backup_ads_intertitial":"62422670c53c4f29",
-      "backup_ads_rewards":"d703ff27de74b5b4",
-      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "backup_ads_intertitial":"538079564880777_538080034880730",
+      "backup_ads_rewards":"null",
+      "open_ads_admob":"null",
       "open_ads_alien":"null",
       "open_ads_max":"null",
       "on_off_native_listview":"0",
-      "interval_intertitial": 5,
+      "interval_intertitial": 7,
       "initialize_sdk":"null",
       "initialize_sdk_backup_ads":"null",
       "high_paying_keyword_1": "",
@@ -36,6 +36,12 @@
       "title":"Wallpaper Aesthetic Cool",
       "image":"https://play-lh.googleusercontent.com/0vy-dKP22kEam_9yOnAWpCiDqHug5PhNx5A6y04muBlw0Svy6OuHZTq1XDho8S1rtqTd=w240-h480-rw",
       "link":"https://play.google.com/store/apps/details?id=com.rintjong.wallpaperaesthetic"
+    },
+    {
+      "id":2,
+      "title":"Wallpaper 4K HD Wallpapers",
+      "image":"https://play-lh.googleusercontent.com/-dVTrS8scTittKLTqffmgQ65t2y4EP-lMRdcYEc2XlG_upCuNunFt6SCacfQz1c0tA=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.rintjong.hdwallpaper4k"
     }
   ],
 
